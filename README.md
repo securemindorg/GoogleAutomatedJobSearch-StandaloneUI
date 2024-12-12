@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/20239439-7753-4b68-ad6b-1fc007d85c49)
-
+<kbd>
+<img src="https://github.com/user-attachments/assets/20239439-7753-4b68-ad6b-1fc007d85c49">
+</kbd>
 
 # Google Automated Job Search Standalone UI
 This standalone web application, built with TypeScript, allows users to view and interact with job postings from a CSV file. The app features:
